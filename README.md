@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://www.mediafire.com/file/8r7srayxjpzhikm/capture-20231231-163546.png/file alt="logo" width=200 height=150 />
+<img src=C:\Users\Sachin Kumar Singh\Pictures\Camera Roll\capture-20231231-163546.png alt="logo" width=200 height=150 />
 
 <h1>Password_Generator</h1>
 <p>Implementation of Password Generator using Core Java and Swing api.</p>
@@ -19,7 +19,7 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://www.mediafire.com/file/8r7srayxjpzhikm/capture-20231231-163546.png/file" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="C:\Users\Sachin Kumar Singh\Pictures\Camera Roll\capture-20231231-163546.png" alt='image' width='800'/></a> </div>
 
 
 
